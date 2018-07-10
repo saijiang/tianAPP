@@ -1,0 +1,69 @@
+[
+    {
+        "normalText": "喜欢的运动",
+        "attributeText": "（多选，此选项关系到每日健康运动的智能推荐，尽量多选）",
+        "multiselect": 1,
+        "items": [
+            {
+                "title": "散步",
+                "select": 0
+            },
+            {
+                "title": "慢跑",
+                "select": 0
+            },
+            {
+                "title": "游泳",
+                "select": 0
+            },
+            {
+                "title": "田径",
+                "select": 0
+            },
+            {
+                "title": "篮球",
+                "select": 0
+            },
+            {
+                "title": "自行车",
+                "select": 0
+            },
+            {
+                "title": "骑马",
+                "select": 0
+            },
+            {
+                "title": "羽毛球",
+                "select": 0
+            },
+            {
+                "title": "高尔夫",
+                "select": 0
+            },
+            {
+                "title": "足球",
+                "select": 0
+            },
+            {
+                "title": "跳绳",
+                "select": 0
+            },
+            {
+                "title": "壁球",
+                "select": 0
+            },
+            {
+                "title": "网球",
+                "select": 0
+            },
+            {
+                "title": "乒乓球",
+                "select": 0
+            },
+            {
+                "title": "排球",
+                "select": 0
+            }
+        ]
+    }
+]

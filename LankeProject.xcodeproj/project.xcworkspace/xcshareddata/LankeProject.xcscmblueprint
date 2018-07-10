@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "09cebdda-b9bc-8741-9952-cb403b258346++5207",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "09cebdda-b9bc-8741-9952-cb403b258346++5207" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "09cebdda-b9bc-8741-9952-cb403b258346++5207" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7D21ADF7-70E8-4A27-88A7-BCB547DCB7C6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "09cebdda-b9bc-8741-9952-cb403b258346++5207" : "%E8%88%AA%E5%A4%A9\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LankeProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LankeProject.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.bluemobi.cn\/svn\/kj201600448_16111845793959",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "09cebdda-b9bc-8741-9952-cb403b258346++5207"
+    }
+  ]
+}

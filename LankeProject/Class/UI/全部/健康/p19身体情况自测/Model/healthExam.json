@@ -1,0 +1,123 @@
+[
+    {
+        "normalText": "患有疾病",
+        "attributeText": "（可多选）",
+        "multiselect": 1,
+        "items": [
+            {
+                "title": "糖尿病",
+                "select": 0
+            },
+            {
+                "title": "心脏病",
+                "select": 0
+            },
+            {
+                "title": "高血压",
+                "select": 0
+            },
+            {
+                "title": "低血压",
+                "select": 0
+            },
+            {
+                "title": "低血糖",
+                "select": 0
+            },
+            {
+                "title": "无疾病",
+                "select": 0
+            }
+        ]
+    },
+    {
+        "normalText": "喜欢的运动",
+        "attributeText": "（多选，此选项关系到每日健身运动的智能推荐，至少选择两项，尽量多选）",
+        "multiselect": 1,
+        "items": [
+            {
+                "title": "散步",
+                "select": 0
+            },
+            {
+                "title": "慢跑",
+                "select": 0
+            },
+            {
+                "title": "游泳",
+                "select": 0
+            },
+            {
+                "title": "田径",
+                "select": 0
+            },
+            {
+                "title": "篮球",
+                "select": 0
+            },
+            {
+                "title": "自行车",
+                "select": 0
+            },
+            {
+                "title": "骑马",
+                "select": 0
+            },
+            {
+                "title": "羽毛球",
+                "select": 0
+            },
+            {
+                "title": "高尔夫",
+                "select": 0
+            },
+            {
+                "title": "足球",
+                "select": 0
+            },
+            {
+                "title": "跳绳",
+                "select": 0
+            },
+            {
+                "title": "壁球",
+                "select": 0
+            },
+            {
+                "title": "网球",
+                "select": 0
+            },
+            {
+                "title": "乒乓球",
+                "select": 0
+            },
+            {
+                "title": "排球",
+                "select": 0
+            }
+        ]
+    },
+    {
+        "normalText": "每周运动频率",
+        "attributeText": "",
+        "multiselect": 0,
+        "items": [
+            {
+                "title": "从不运动",
+                "select": 0
+            },
+            {
+                "title": "一次",
+                "select": 0
+            },
+            {
+                "title": "二至三次",
+                "select": 0
+            },
+            {
+                "title": "三次以上",
+                "select": 0
+            }
+        ]
+    }
+]

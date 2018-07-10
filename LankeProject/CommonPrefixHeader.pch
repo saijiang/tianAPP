@@ -1,0 +1,28 @@
+//
+//  CommonPrefixHeader.pch
+//  LankeProject
+//
+//  Created by 符丹 on 16/12/14.
+//  Copyright © 2016年 张涛. All rights reserved.
+//
+
+#ifndef CommonPrefixHeader_pch
+#define CommonPrefixHeader_pch
+
+
+//轮播图
+#import "CommonHeaderView.h"
+//网络图片
+#import "NetworkImageView.h"
+//本地图片
+#import "LocalhostImageView.h"
+//layout
+#import "CSStickyHeaderFlowLayout.h"
+
+#import "LeftImageBtn.h"
+
+#import "RestaurantSectionView.h"
+
+#import "SearchView.h"
+
+#endif /* CommonPrefixHeader_pch */

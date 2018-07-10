@@ -1,0 +1,15 @@
+//
+//  TCMCheckViewController.h
+//  LankeProject
+//
+//  Created by Rocky Young on 2017/3/13.
+//  Copyright © 2017年 张涛. All rights reserved.
+//
+
+#import "BaseViewController.h"
+
+@interface TCMCheckViewController : BaseViewController
+@property(nonatomic,assign)NSString*sexStr;
+@property(nonatomic,assign)NSString*stypeStr;
+- (instancetype) initWithType:(NSString *)type;
+@end

@@ -1,0 +1,6 @@
+framework module TSMKit {
+  umbrella header "TSMKit.h"
+
+  export *
+  module * { export * }
+}
